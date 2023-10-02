@@ -56,6 +56,7 @@ Ik ga me focussen op het responsive maken van mijn website
 
 ## Toegankelijkheidstest 1/2 (week 1)
 
+
 <details>
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
@@ -247,9 +248,9 @@ Ik ga me focussen op het responsive maken van mijn website
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. Studenten assistenten
+  2. De docent
+  4. Klasgenoten
 
 </details>
 </details>
