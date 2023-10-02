@@ -43,12 +43,12 @@ Ik ga me focussen op het responsive maken van mijn website
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="readme-images/homepage.png" width="375px" alt="De home pagina van de bol.com website">
+  <img src="readme-images/home-pagina.png" width="375px" alt="De home pagina van de burgerking website">
 
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/cadeaupage.png" alt="een pagina waar je inspiratie voor cadeautjes kan opdoen en cadeautjes kan kopen"> 
+  <img src="readme-images/Menu-pagina.png" alt="pagina waar je het menu overzicht kan bekijken"> 
  
 </details>
 
@@ -58,6 +58,8 @@ Ik ga me focussen op het responsive maken van mijn website
 
 <details>
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
+
+  Ik moet sommige sections nog een title geven, en meer alt teksten fixen.
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
@@ -94,6 +96,8 @@ Ik ga me focussen op het responsive maken van mijn website
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
+  het vormgeven van het telefoon formaat komt op start ik moet weer erg wennen aan het coderen. Ik ben nu bezig met het leren van grid en flexbox doormiddel van code pen. ik heb ook al gebruik gemaakt van mijn eerste media queries. Ik snap nu beter hoe het werkt en ga hier verder mee aan de slag. Ik ben ook begonnen aan het maken van de tweede pagina.
+
 
   ### Agenda voor meeting
   samen met je groepje opstellen
@@ -108,9 +112,10 @@ Ik ga me focussen op het responsive maken van mijn website
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
+  - punt 1 Ik ben nog niet heel 
+  - punt 2 De nav zit wel goed in elkaar
+  - punt 3 Wat ik tot nu toe heb gedaan ziet er goed uit
+  
   - ...
 
 </details>
@@ -126,6 +131,7 @@ Ik ga me focussen op het responsive maken van mijn website
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  eerst pagina is bijna af op telefoon formaat ik ben ook al begonnen aan mijn tweede pagina. Mijn eerste pagina is al deels responisve en heb ook mijn 2de NAV gemaakt in de FOOTER die vast zit aan de onderkant van het scherm.
 
 
   ### Agenda voor meeting
@@ -141,9 +147,10 @@ Ik ga me focussen op het responsive maken van mijn website
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
+  - punt 1 De html ziet er goed uit
+  - punt 2 Het responsive maken van de paginas gaat ook steeds beter
+  - punt 3 NAV in de footer is gefixt met hulp van studenten assistenten.
+  - punt 4
 - ...
 
 </details>
@@ -173,6 +180,7 @@ Ik ga me focussen op het responsive maken van mijn website
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Mijn hele NAV is veranderd en mijn hamburger menu doet het nu ook, dit heb ik samen met de studenten assistent gedaan. Hij werkt responsive erg goed. Ook heb ik een mockup in section met een gradient gedaan zodat het lijkt alsof hij uitsteekt. Mijn tweede pagina is ook helemaal af en bijna helemaal responsive, het zelfde geld voor mijn eerste pagina. De FOOTER is bijna af en we komen steeds verder.
 
 
   ### Agenda voor meeting
@@ -188,8 +196,8 @@ Ik ga me focussen op het responsive maken van mijn website
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
+  - punt 1 HTML beetje opgeschoont
+  - punt 2 Voor de rest ziet er prima uit
   - nog een punt
   - ...
 
@@ -204,6 +212,8 @@ Ik ga me focussen op het responsive maken van mijn website
 <details>
   <summary>uitwerken voor eindgesprek</summary>
 
+  Ik heb mijn Micro animatie gemaakt en de laatste responsive fouten gefixt.
+
   ### Je uitkomst - karakteristiek screenshots:
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
 
@@ -211,11 +221,15 @@ Ik ga me focussen op het responsive maken van mijn website
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
 
+  Ik heb echt geleerd hoe ik kan vormgeven in CSS en hoe ik kan werken met grids en hoe ik websites responsive maak. 
+
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
+
+  Ik vind het lastig om de fouten waar ik niet wist hoe ze kwamen te verbeteren, dat koste erg veel tijd maar het is gelukt.
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
@@ -237,4 +251,5 @@ Ik ga me focussen op het responsive maken van mijn website
   2. bron 2
   3. ...
 
+</details>
 </details>
