@@ -99,6 +99,8 @@ Ik ga me focussen op het responsive maken van mijn website
 
   het vormgeven van het telefoon formaat komt op start ik moet weer erg wennen aan het coderen. Ik ben nu bezig met het leren van grid en flexbox doormiddel van code pen. ik heb ook al gebruik gemaakt van mijn eerste media queries. Ik snap nu beter hoe het werkt en ga hier verder mee aan de slag. Ik ben ook begonnen aan het maken van de tweede pagina.
 
+ <img src="readme-images/Html-1" width="375px" alt="eerste pagina">
+ <img src="readme-images/Html-2" width="375px" alt="eerste pagina">
 
   ### Agenda voor meeting
   samen met je groepje opstellen
@@ -133,6 +135,13 @@ Ik ga me focussen op het responsive maken van mijn website
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
   eerst pagina is bijna af op telefoon formaat ik ben ook al begonnen aan mijn tweede pagina. Mijn eerste pagina is al deels responisve en heb ook mijn 2de NAV gemaakt in de FOOTER die vast zit aan de onderkant van het scherm.
+
+  <img src="readme-images/NAV" width="375px" alt="oude NAV">
+  <img src="readme-images/NAV2" width="375px" alt="oude NAV">
+  <img src="readme-images/NAV-goed" width="375px" alt="nieuwe NAV">
+  <img src="readme-images/NAV-nieuw" width="375px" alt="nieuwe NAV">
+
+img
 
 
   ### Agenda voor meeting
